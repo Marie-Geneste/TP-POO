@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="988027eb-822c-45b7-a9e5-9b2980e0f01c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Contact.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contact.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CsvFormatter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FormatToCsv.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FormatToHTML.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FormatToJSON.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HTMLFormatter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JSONFormatter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Register.java" afterDir="false" />
-    </list>
+    <list default="true" id="988027eb-822c-45b7-a9e5-9b2980e0f01c" name="Changes" comment="TP Formattage" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,14 +57,38 @@
       <option name="presentableId" value="Default" />
       <updated>1709716493442</updated>
     </task>
+    <task id="LOCAL-00001" summary="TP Formattage">
+      <option name="closed" value="true" />
+      <created>1709907300192</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1709907300192</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="TP Formattage" />
+    <option name="LAST_COMMIT_MESSAGE" value="TP Formattage" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>21</line>
+          <line>22</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
